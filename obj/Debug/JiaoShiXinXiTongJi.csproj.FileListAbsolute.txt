@@ -1,0 +1,26 @@
+F:\毕业设计\源代码\Intranet协作办公系统\bin\JiaoShiXinXiTongJi.dll
+F:\毕业设计\源代码\Intranet协作办公系统\bin\JiaoShiXinXiTongJi.pdb
+F:\毕业设计\源代码\Intranet协作办公系统\obj\Debug\ResolveAssemblyReference.cache
+F:\毕业设计\源代码\Intranet协作办公系统\obj\Debug\JiaoShiXinXiTongJi.dll
+F:\毕业设计\源代码\Intranet协作办公系统\obj\Debug\JiaoShiXinXiTongJi.pdb
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\bin\JiaoShiXinXiTongJi.dll
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\bin\JiaoShiXinXiTongJi.pdb
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\bin\C_R.dll
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\bin\DAO.dll
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\bin\pojo.dll
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\bin\Util.dll
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\bin\DAO.pdb
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\bin\C_R.pdb
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\bin\pojo.pdb
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\bin\Util.pdb
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\obj\Debug\ResolveAssemblyReference.cache
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\obj\Debug\JiaoShiXinXiTongJi.dll
+F:\毕业设计\源代码\Intranet协作办公系统 - 副本\obj\Debug\JiaoShiXinXiTongJi.pdb
+F:\毕业设计\源代码\Intranet协作办公系统\bin\C_R.dll
+F:\毕业设计\源代码\Intranet协作办公系统\bin\DAO.dll
+F:\毕业设计\源代码\Intranet协作办公系统\bin\pojo.dll
+F:\毕业设计\源代码\Intranet协作办公系统\bin\Util.dll
+F:\毕业设计\源代码\Intranet协作办公系统\bin\DAO.pdb
+F:\毕业设计\源代码\Intranet协作办公系统\bin\C_R.pdb
+F:\毕业设计\源代码\Intranet协作办公系统\bin\pojo.pdb
+F:\毕业设计\源代码\Intranet协作办公系统\bin\Util.pdb
