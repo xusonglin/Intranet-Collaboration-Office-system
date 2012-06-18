@@ -101,9 +101,9 @@
     </script>
 </head>
 <body class="easyui-layout" style="background-color: #D7E6ED;" >
-    <div id="header" region="north" border="false" style="height: 50px; overflow: hidden; width:100%; background-image:url(images/head.jpg); background-repeat: repeat-x; vertical-align:bottom" >
+    <div id="header" region="north" border="false" style="height: 50px; overflow: hidden; width:100%; background-image:url(images/head.jpg); background-repeat:no-repeat;vertical-align:bottom;background-position:left;">
       
-        <div style="float: right; margin: 6px auto; vertical-align:bottom">
+        <div style="float: right; margin: 6px auto; vertical-align:bottom;">
             <table style="text-align: right; vertical-align:bottom">
             <tr  style="height:10px"><td colspan="3"></td></tr>
                 <tr>
